@@ -2,10 +2,6 @@
 
 **NO LONGER MAINTAINED**
 
-
-[![Build Status](https://travis-ci.org/martinlindhe/laravel-vue-i18n-generator.png?branch=master)](https://travis-ci.org/martinlindhe/laravel-vue-i18n-generator)
-
-
 Laravel 5 package that allows you to share your [Laravel localizations](https://laravel.com/docs/5.8/localization)
 with your [vue](http://vuejs.org/) front-end, using [vue-i18n](https://github.com/kazupon/vue-i18n) or [vuex-i18n](https://github.com/dkfbasel/vuex-i18n).
 
@@ -13,7 +9,6 @@ with your [vue](http://vuejs.org/) front-end, using [vue-i18n](https://github.co
 ## Laravel 5.7 notice!
 
 Configuration paths have changed in Laravel 5.7, in order for this package to function properly you need to configure correct paths for jsPath and jsFile in your `config\vue-i18n-generator.php`.
-
 
 ## Install the package
 

@@ -28,8 +28,9 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MartinLindhe\\VueInternationalizationGenerator\\GeneratorProvider"
+                "FlagtickGroup\\InternationalizationGenerator\\GeneratorProvider"
             ]
         }
-    }
+    },
+    "version": "1.0.0"
 }
