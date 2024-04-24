@@ -1,13 +1,13 @@
 <?php
 
-use MartinLindhe\VueInternationalizationGenerator\Generator;
+use FlagtickGroup\InternationalizationGenerator\Generator;
 
 class GenerateTest extends \PHPUnit_Framework_TestCase
 {
     private function generateLocaleFilesFrom(array $arr)
     {
         $root = sys_get_temp_dir() . '/' . sha1(microtime(true) . mt_rand());
-        
+
         if (!is_dir($root)) {
             mkdir($root, 0777, true);
         }

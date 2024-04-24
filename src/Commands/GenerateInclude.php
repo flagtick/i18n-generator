@@ -1,8 +1,8 @@
-<?php namespace MartinLindhe\VueInternationalizationGenerator\Commands;
+<?php namespace FlagtickGroup\InternationalizationGenerator\Commands;
 
 use Illuminate\Console\Command;
 
-use MartinLindhe\VueInternationalizationGenerator\Generator;
+use FlagtickGroup\InternationalizationGenerator\Generator;
 
 class GenerateInclude extends Command
 {

@@ -1,4 +1,4 @@
-<?php namespace MartinLindhe\VueInternationalizationGenerator;
+<?php namespace FlagtickGroup\InternationalizationGenerator;
 
 use Illuminate\Support\ServiceProvider;
 
