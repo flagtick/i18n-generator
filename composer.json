@@ -3,10 +3,10 @@
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
-    "homepage": "http://github.com/martinlindhe/laravel-vue-i18n-generator",
+    "homepage": "https://github.com/flagtick/i18n-generator",
     "authors": [
         {
-            "name": "Martin Lindhe",
+            "name": "Flagtick Group",
             "email": "martin@ubique.se"
         }
     ],
